@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=R3 Old Footprint=tro vach 1/4w New Footprint=tro vach 1/2w
+Change Component Comment : Designator=R3 Old Comment=360R New Comment=330R
+Change component parameters: Designator = "R3" ("R3"); Footprint = "tro vach 1/4w"; UniqueID = "\LQQOGHJK" ("\LQQOGHJK")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH006204"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 330R"; VariantName = "[No Variations]"

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\My_own_adruino\PCB.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=pcb-slotholes-plated.txt|DrillLayers=gtl,gbl

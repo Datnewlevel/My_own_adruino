@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [My_own_adruino.PrjPcb]
+   Generated File[PCB-RoundHoles-Plated.TXT]
+   Generated File[PCB-SlotHoles-Plated.TXT]
+   Generated File[PCB.LDP]
+   Generated File[PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 8:56:27 PM On 11/18/2025

@@ -1,0 +1,4 @@
+Change Component Designator: Old Designator=GND-out New Designator=GND-out1
+Change Component Designator: Old Designator=R? New Designator=R3
+Change Component Designator: Old Designator=Vout-3.3V New Designator=Vout-2
+Change Component Designator: Old Designator=Vout-5V New Designator=Vout-1
