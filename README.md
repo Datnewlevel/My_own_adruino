@@ -34,3 +34,7 @@ Here are some images of the project:
 **4. USB to UART Communication Module**
 
 ![USB to UART Module](Module_usb_to_uart.jpg)
+
+**5. Product Image**
+
+![Product Image](hinh_anh_san_pham.jpg)
