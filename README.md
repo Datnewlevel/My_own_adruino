@@ -37,4 +37,4 @@ Here are some images of the project:
 
 **5. Product Image**
 
-![Product Image](hinh_anh_san_pham.jpg)
+![Product Image](Hinh_anh_san_pham.jpg)
