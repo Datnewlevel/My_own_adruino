@@ -43,7 +43,7 @@ Here are some images of the project:
 
 **1. Temperature Test (DHT11)**
 
-| Test 1 | Test 2 |
+| Picture 1 | Picture 2 |
 |--------|--------|
 | ![Temperature Test 1](test_temperature_1.jpg) | ![Temperature Test 2](test_temperature_2.jpg) |
 
