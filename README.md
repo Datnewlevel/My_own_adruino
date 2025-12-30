@@ -38,3 +38,19 @@ Here are some images of the project:
 **5. Product Image**
 
 ![Product Image](Hinh_anh_san_pham.jpg)
+
+## Test Board
+
+**1. Temperature Test (DHT11)**
+
+| Test 1 | Test 2 |
+|--------|--------|
+| ![Temperature Test 1](test_temperature_1.jpg) | ![Temperature Test 2](test_temperature_2.jpg) |
+
+**2. OLED Monitor Test (0.96 inch)**
+
+![OLED Monitor Test](test_oled_moniter.jpg)
+
+**3. SR04 Ultrasonic Sensor Test**
+
+![SR04 Test](test_sr04.jpg)
